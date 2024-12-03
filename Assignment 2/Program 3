@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+    int a,b,c,t;
+    printf("Input three angle of ")
+}
